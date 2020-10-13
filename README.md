@@ -1,12 +1,15 @@
 # Breast-Cancer-Database
 
-**Introduction**
+##Introduction
+
 CGBC database is a large thematic database contains around 21,000 patients diagnosed breast cancer from the cancer registry in Chang Gung memorial hospitals, Taiwan. This database comprising de-identified electronic health record (EHR) regarding the outpatient/inpatient service claims, pharmacy prescription, medical cost, and medical utilization for patients with breast cancer. Furthermore, radiology and pathology images for these patients was also included. Though deidentified, CGBCD contains detailed clinical information and requires credentialing before access. The data structure was displayed as figure 1.
 
 **Patient Cohort**
+
 Breast cancer cases diagnosed in six branches of Chang Gung Memorial Hospital between 2010 and 2016 will be reviewed. The case definition was determined with the cancer registry which needs clinical evidence and physician confirmed. The first record in cancer registry was defined as cancer incidence date. All diagnosis and treatment information in cancer registry was also retrieved. Finally, there were 20,966 breast cancer patients in this database.
 
-Data Description
+**Data Description**
+
 CGBCD is a relational database consisting of EHR, radiology images, and digital pathology images. For the EHR, all clinical information, including disease diagnosis, procedure, prescription, laboratory data, medical cost and utilization was recorded by medical encounter. The database retrieved period for EHR was from 2001 to 2019. In addition, cause and date of death were derived from that linked study cohort to National Death Registry by personal identification. 
 
 List of Tables
