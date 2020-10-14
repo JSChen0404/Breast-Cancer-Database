@@ -41,6 +41,7 @@ The CGBCD contained a variety of clinical information to let researchers conduct
 * etc.
 
 Table 1. The Codebook for Breast Cancer Patients Data.
+
 ![image2](https://github.com/JSChen0404/Breast-Cancer-Database/blob/main/Codebook_10.13.20.png)
 
 ## Requesting Datasets
